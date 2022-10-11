@@ -14677,6 +14677,12 @@
 	},
 /turf/open/indestructible/ground/outside/dirt,
 /area/f13/wasteland/warren)
+"odA" = (
+/obj/item/flag/ncr{
+	pixel_y = 31
+	},
+/turf/closed/wall/f13/supermart,
+/area/f13/ncr)
 "odK" = (
 /obj/structure/wreck/trash/brokenvendor,
 /obj/effect/decal/cleanable/dirt,
@@ -55741,10 +55747,10 @@ nxf
 xAc
 xAc
 tzp
-eoC
 xAc
 xAc
-goE
+xAc
+odA
 rFA
 nJZ
 eJX

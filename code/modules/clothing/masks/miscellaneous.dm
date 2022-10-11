@@ -405,9 +405,10 @@
 	name = "desert facewrap"
 	desc = "A facewrap commonly employed by NCR troops in desert environments."
 	icon_state = "ncr_facewrap"
+
 	w_class = WEIGHT_CLASS_TINY
-	flags_inv = HIDEFACE
-	visor_flags_inv = HIDEFACE
+	flags_inv = HIDEFACE|HIDEFACIALHAIR|HIDESNOUT
+	visor_flags_inv = HIDEFACE|
 	adjusted_flags = null
 	actions_types = list(/datum/action/item_action/adjust)
 
